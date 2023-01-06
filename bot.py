@@ -11,7 +11,7 @@ import os
 import PyPDF3
 import pyttsx3
 import pdfplumber
-API_KEY = "5915638739:AAGkzR500tw1SnkTvyCPzpdJyVWXcSmOrN4"
+API_KEY = TOKEN
 
 
 # https://towardsdatascience.com/how-to-deploy-a-telegram-bot-using-heroku-for-free-9436f89575d2
